@@ -1,13 +1,14 @@
 # House-Prices-Prediction-using-TFDF
  TFDF, like a forest of decision trees, learns from house data to predict prices. It's versatile, powerful, interpretable, and beginner-friendly. Gather data, prep it, train your forest, and predict! Remember, it's a starting point, and real estate is complex. Dive in and explore!
 
-## Dataset Description
-# File descriptions
+# Dataset Description
+## File descriptions
 train.csv - the training set
 test.csv - the test set
 data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
 sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
-Data fields
+
+## Data fields
 Here's a brief version of what you'll find in the data description file.
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
